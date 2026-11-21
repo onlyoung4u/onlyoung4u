@@ -22,10 +22,12 @@ annoyance + weekend × your browser → tool
 
 ### 🧪 On the stove
 
-| Element | What it does | Properties |
-| --- | --- | --- |
-| **Tm** · [To Do Mover](https://github.com/onlyoung4u/todo-mover) | Back up and move your Microsoft To Do lists before the apps retire. | runs in your browser · Microsoft sign-in, read-only by default · stores nothing · AGPL-3.0 |
-| **002** | *Still bubbling.* | — |
+| Element | What it does | Properties | Source |
+| --- | --- | --- | --- |
+| **Tm** · [To Do Mover](https://todo-mover.alchemew.com/) | Back up and move your Microsoft To Do lists before the apps retire. | runs in your browser · Microsoft sign-in, read-only by default · stores nothing | [AGPL-3.0](https://github.com/onlyoung4u/todo-mover) |
+| **002** | *Still bubbling.* | — | — |
+
+<sub>Every tool has a website. Source links appear where the code is public.</sub>
 
 ### ⚗️ Laws of the lab
 
